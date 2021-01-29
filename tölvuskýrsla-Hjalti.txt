@@ -1,0 +1,26 @@
+Ég byrjaði á því að fjarlægja efri skrúfuna sem hélt framhlið vélarinnar á, af einhverji ástæðu var aðeins eins skrúfa þar og festingarnar sem héldu plötunni í voru öðruvísi en þær sem ég 
+hef séð.
+Næst fór ég að fjarlægja vinnsluminnið með því að ýta inn tveimur hlerunum sem halda stöngunum föstum.
+Þegar ég fer að róta á milli víranna sé ég að 60gb SSD Silicon Power er skrúfað við botn kassans. Ég legg tölvunna varlega niður og skoða skrúfurnar, 4 litlar stjörnu skrúfur, ég fjarlægi 
+skrúfurnar og tek SATA og power kaplana úr.
+Næst ákveð ég að fjarlægja flesta vírana, auðveldasta leiðin til þess er bara að taka PSU úr, ég byrja að taka 24 pin móðurborðskapalinn úr, svo 4-pin sem ég er ekki alveg viss um hvert 
+hann leiddi, og svo CPU kapalinn sem var einhvernveginn öfugur í og krafðist mjög mikils styrks til að kippa úr. Loksins þegar ég náði öllu úr tók ég skrúfurnar fjórar sem festu PSU-ið við 
+turnin úr og dró síðan Psu-ið og alla kapla og víra út.
+Svo fór ég að fjarlægja alla víra sem þurftu ekki að vera tengdir við neitt lengur, vifturnar, fremra usb, SATA kapalinn sem ég gleymdi að taka úr móðurborðinu, litla Buzzer hátalarann og 
+öll ljós.
+Ég skrúfa móðurborðið af, byrja á botninum og vinn mig upp, þegar það er komið úr reisi ég turnin upp aftur til að fá meira vinnupláss og legg borðið þar sem turnin var.
+Þega ég er búinn að hreinsa vinnusvæðið tek ég cpu viftuna úr sambandi og sný og kippi í takkana á hornum viftunnar til að leysa hana, þeir voru ansi stífir í svo ég þurfti að aðstoða suma 
+pinnana til að losna úr en það var ekki svo erfitt. Þegar viftan var komin úr fór ég að taka örgjörvan úr, ég byrja á því að ýta stönginni sem heldur hlífinni niður og svo draga hana til 
+hliðar, svo var restin bara að lifta hlífinni upp og taka örgjörvan úr rólega, pinnarnir voru á móðurborðinu en ekki örgjörvanum svo það var auðveldara en ég hélt að fjarlægja hann.
+Þegar ég er búinn að taka allt úr hreinsa ég örgjörvan og viftuna með 90% spritti og byrja svo að setja allt saman aftur í svipaðri röð og tók hana í sundur.
+
+PSU - 230v LC Power Model: LC420H-12
+
+Ram - 2x4gb DDR3 Ripjaws X frá g.Skill
+
+Móðurborð - ASRock B85 Anniversary
+
+Örgjörvi - Intel Core I3, 3.6ghz og stock cooler
+
+SSD - 60gb SATA frá Silicon Power
+
